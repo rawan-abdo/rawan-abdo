@@ -1,4 +1,25 @@
-### Hi there 👋
+<!--
+<h1 align='center'>
+Hi there 👋 I'm Rawan ⚡
+</h1>
+-->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rawan-abdo&show_icons=true&count_private=true&theme=light" width="350"></a>
+</p>
+
+<p align='center'>
+
+  <a href="https://www.linkedin.com/in/rawan-abdo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
+  </a>
+  <!--&nbsp;&nbsp;-->
+  <a href="mailto:rawanzabdo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height= "25"/>        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 
 <!--
 **rawan-abdo/rawan-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
