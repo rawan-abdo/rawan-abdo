@@ -9,9 +9,11 @@ Hi there 👋 I'm Rawan ⚡
 
 <p align='center'>
 
-  <a target = "_blank" href = "https://www.linkedin.com/in/rawan-abdo/">
+  <a onclick="window.open(this.href,'_blank');return false;" href = "https://www.linkedin.com/in/rawan-abdo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
   </a>
+ 
+  
   <!--&nbsp;&nbsp;-->
   <a href="mailto:rawanzabdo@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height= "25"/>        
