@@ -9,7 +9,7 @@ Hi there 👋 I'm Rawan ⚡
 
 <p align='center'>
 
-  <a href="https://www.linkedin.com/in/rawan-abdo/" target="blank">
+  <a target = "_blank" href = "https://www.linkedin.com/in/rawan-abdo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
   </a>
   <!--&nbsp;&nbsp;-->
