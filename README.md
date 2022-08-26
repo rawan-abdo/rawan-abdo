@@ -9,9 +9,9 @@ Hi there 👋 I'm Rawan ⚡
 
 <p align='center'>
 
-    <a onclick="window.open ('https://www.linkedin.com/in/rawan-abdo/', ''); return false" href="javascript:void(0);"></a>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
-  </a>
+    <a href = "https://www.linkedin.com/in/rawan-abdo" rel="external">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
+    </a>
  
   
   <!--&nbsp;&nbsp;-->
