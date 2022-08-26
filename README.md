@@ -9,7 +9,7 @@ Hi there 👋 I'm Rawan ⚡
 
 <p align='center'>
 
-  <a onclick="window.open(this.href,'_blank');return false;" href = "https://www.linkedin.com/in/rawan-abdo/">
+    <a onclick="window.open ('https://www.linkedin.com/in/rawan-abdo/', ''); return false" href="javascript:void(0);"></a>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
   </a>
  
@@ -27,7 +27,7 @@ Hi there 👋 I'm Rawan ⚡
 **rawan-abdo/rawan-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<a onclick="window.open(this.href,'_blank');return false;" href = "https://www.linkedin.com/in/rawan-abdo/">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
