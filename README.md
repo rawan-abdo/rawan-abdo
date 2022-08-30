@@ -16,12 +16,25 @@
 
 
 
-<!--
+
+
+
+
+
+
+<!-- NOTES
+
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=3" alt="rawan-abdo-top-langs"/>
+</p>
+
 **rawan-abdo/rawan-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align='center'>
 Hi there 👋 I'm Rawan ⚡
 </h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rawan-abdo&langs_count=3&layout=compact)](https://github.com/rawan-abdo/github-readme-stats)
 
 Here are some ideas to get you started:
 <a onclick="window.open(this.href,'_blank');return false;" href = "https://www.linkedin.com/in/rawan-abdo/">
