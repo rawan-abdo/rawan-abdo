@@ -5,11 +5,11 @@
 </p>
 
 <p align='center'> 
-  <a href="https://www.linkedin.com/in/rawan-abdo/" rel = "external">
+  <a href="https://www.linkedin.com/in/rawan-abdo/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height = "25"/>
   </a>  
    
-  <a href="mailto:rawanzabdo@gmail.com">
+  <a href="mailto:rawanzabdo@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height= "25"/>        
   </a>&nbsp;&nbsp;
 </p>
