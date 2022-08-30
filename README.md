@@ -1,7 +1,8 @@
 <p align='center'>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=rawan-abdo&show_icons=true&count_private=true&hide=stars,contribs&theme=light" width="450">   
+    <img src="https://github-readme-stats.vercel.app/api?username=rawan-abdo&show_icons=true&count_private=true&hide=stars,contribs&theme=light&hide_rank=true" height="150">   
   </a>
+    <img src="https://github-readme-stats-vercel-3-rawan-abdo.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&layout=compact&langs_count=6" alt="rawan-abdo-top-langs"/ height="150">
 </p>
 
 <p align='center'> 
@@ -14,20 +15,20 @@
   </a>&nbsp;&nbsp;
 </p>
 
+
+
+<!-- NOTES
+
 <p align='center'>
   <img src="https://github-readme-stats-vercel.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true" alt="rawan-abdo-top-langs"/>
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats-vercel.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=3" alt="rawan-abdo-top-langs"/>
+  <img src="https://github-readme-stats-sigma-ten-18.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=3" alt="rawan-abdo-top-langs"/>
 </p>
 
 
-
-
-
-
-<!-- NOTES
+github-readme-stats-sigma-ten-18.vercel.app
 
 
 <p align='center'>
