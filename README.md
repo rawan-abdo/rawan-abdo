@@ -14,8 +14,13 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  <img src="https://github-readme-stats-vercel.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true" alt="rawan-abdo-top-langs"/>
+</p>
 
-
+<p align='center'>
+  <img src="https://github-readme-stats-vercel.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=3" alt="rawan-abdo-top-langs"/>
+</p>
 
 
 
@@ -26,7 +31,7 @@
 
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=3" alt="rawan-abdo-top-langs"/>
+  <img src="https://github-readme-stats-vercel.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=3" alt="rawan-abdo-top-langs"/>
 </p>
 
 **rawan-abdo/rawan-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
