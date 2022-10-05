@@ -2,7 +2,7 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=rawan-abdo&show_icons=true&count_private=true&hide=stars,contribs&theme=light&hide_rank=true" height="150">   
   </a>
-    <img src="https://github-readme-stats-vercel4-o0lglgxqy-rawan-abdo.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&layout=compact&langs_count=6" alt="rawan-abdo-top-langs"/ height="150">
+    <img src="https://github-readme-stats-vercel4-rawan-abdo.vercel.app/api/top-langs?username=rawan-abdo&show_icons=true&count_private=true&layout=compact&langs_count=6" alt="rawan-abdo-top-langs"/ height="150">
 </p>
 
 
